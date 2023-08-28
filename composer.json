@@ -1,5 +1,5 @@
 {
-    "name": "bowero/laravel-healthchecks",
+    "name": "willscottuk/laravel-healthchecks",
     "description": "A Laravel wrapper for healthchecks.io",
     "keywords": [
         "Bowero",
